@@ -5,7 +5,7 @@ import MySQLdb
 MIT = """
 -- The MIT License (MIT)
 --
--- Copyright (c) [YEAR] [COPYRIGHT_HOLDER]
+-- Copyright (c) 2015 www.codingninja.co.uk
 --
 -- Permission is hereby granted, free of charge, to any person obtaining a copy
 -- of this software and associated documentation files (the "Software"), to deal
