@@ -23,7 +23,7 @@ DB_PASS = "your_password"
 DB_NAME = "your_db_name"
 ```
 
-Now simply run the python script _(this is Python 2.7 IIR)_:
+Now simply run the python script _(this is Python 2.7 IIRC)_:
 
 ```shell
 $ python transform.py
